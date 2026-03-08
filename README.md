@@ -2,7 +2,7 @@
 
 🚀 **AI/ML Student | Generative AI Trainer | Python Developer**
 
-![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Coding](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
 ---
 
