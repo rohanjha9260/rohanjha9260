@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rohan%20Jha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20GenAI%20Trainer%20%7C%20Python%20Developer&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Rohan%20Jha&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=AI%20%26%20ML%20Engineer%20%7C%20GenAI%20Trainer%20%7C%20Python%20Developer&amp;descAlignY=51&amp;descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rohan+Jha+%F0%9F%91%8B;B.Tech+CSE+(AI+%26+ML)+%F0%9F%8E%93;Generative+AI+Trainer+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Building+the+Future+with+AI+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -18,9 +18,9 @@
 
 ## 👨‍💻 About Me
 
-<table>
+<table border="0" cellpadding="10">
 <tr>
-<td valign="top" width="60%">
+<td valign="middle" width="55%">
 
 I am a passionate AI enthusiast and developer based in **Delhi, India 🇮🇳**, exploring the intersections of machine learning, web development, and AI automation.
 
@@ -33,9 +33,9 @@ I am a passionate AI enthusiast and developer based in **Delhi, India 🇮🇳**
 - ⚡ **Fun fact:** I train AI models by day and play flute melodies by night 🌙
 
 </td>
-<td valign="top" width="40%" align="center">
+<td valign="middle" width="45%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Coding GIF" width="300" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Coding GIF" width="250" />
 
 </td>
 </tr>
@@ -99,7 +99,7 @@ I am a passionate AI enthusiast and developer based in **Delhi, India 🇮🇳**
 | 📚 **Online Bookstore** | Full-stack web application | Python, Web |
 | 🤖 **AI Chatbot** | Intelligent chatbot using LLMs | Python, LLMs |
 | 📊 **ML Prediction Model** | Data analysis & predictive modeling | Python, scikit-learn |
-
+| 🧠 **Python AI Agent** | Smart, autonomous AI agent systems | Python, AI APIs |
 
 </div>
 
@@ -147,7 +147,7 @@ I am a passionate AI enthusiast and developer based in **Delhi, India 🇮🇳**
 <div align="center">
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" width="100%"/>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" />
 <em><b>I love connecting with people!</b> If you want to say <b>hi</b>, I'll be happy to meet you.</em>
