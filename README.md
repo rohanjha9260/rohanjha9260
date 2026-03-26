@@ -104,20 +104,22 @@ I am a passionate AI enthusiast and developer based in **Delhi, India 🇮🇳**
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanjha9260&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&count_private=true" alt="Rohan's GitHub stats" width="48%" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=rohanjha9260&cc=0D1117&tc=A855F7&ic=A855F7&bc=0D1117" alt="Rohan's GitHub stats" width="48%" />
   <img src="https://streak-stats.demolab.com?user=rohanjha9260&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanjha9260&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&langs_count=8" alt="Top Languages" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohanjha9260&theme=tokyonight" alt="Repos Per Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohanjha9260&theme=tokyonight" alt="Most Commit Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohanjha9260&theme=tokyonight" alt="Stats" width="32%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohanjha9260&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohanjha9260&theme=tokyonight" alt="Profile Details" width="95%" />
 </div>
 
 ---
@@ -134,7 +136,7 @@ I am a passionate AI enthusiast and developer based in **Delhi, India 🇮🇳**
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
