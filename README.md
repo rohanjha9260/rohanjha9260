@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Rohan%20Jha&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=AI%20%26%20ML%20Engineer%20%7C%20GenAI%20Trainer%20%7C%20Python%20Developer&amp;descAlignY=51&amp;descAlign=50" width="100%"/>
-
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rohan+Jha+%F0%9F%91%8B;B.Tech+CSE+(AI+%26+ML)+%F0%9F%8E%93;Generative+AI+Trainer+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Building+the+Future+with+AI+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -83,7 +80,6 @@ I am a passionate AI enthusiast and developer based in **Delhi, India 🇮🇳**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
@@ -99,7 +95,6 @@ I am a passionate AI enthusiast and developer based in **Delhi, India 🇮🇳**
 | 📚 **Online Bookstore** | Full-stack web application | Python, Web |
 | 🤖 **AI Chatbot** | Intelligent chatbot using LLMs | Python, LLMs |
 | 📊 **ML Prediction Model** | Data analysis & predictive modeling | Python, scikit-learn |
-| 🧠 **Python AI Agent** | Smart, autonomous AI agent systems | Python, AI APIs |
 
 </div>
 
