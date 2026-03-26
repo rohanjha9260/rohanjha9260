@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rohan+Jha+%F0%9F%91%8B;B.Tech+CSE+(AI+%26+ML)+%F0%9F%8E%93;Generative+AI+Trainer+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Building+the+Future+with+AI+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- Typing Animation as Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohan+Jha!;AI+%26+ML+Engineer+%F0%9F%A4%96;Generative+AI+Trainer+%F0%9F%A7%A0;Python+Developer+%F0%9F%90%8D;Building+the+Future+with+AI+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -80,6 +80,7 @@ I am a passionate AI enthusiast and developer based in **Delhi, India 🇮🇳**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
@@ -103,14 +104,14 @@ I am a passionate AI enthusiast and developer based in **Delhi, India 🇮🇳**
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanjha9260&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" alt="Rohan's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanjha9260&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanjha9260&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&count_private=true" alt="Rohan's GitHub stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=rohanjha9260&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanjha9260&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanjha9260&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&langs_count=8" alt="Top Languages" width="40%" />
 </div>
 
 <br/>
@@ -124,7 +125,7 @@ I am a passionate AI enthusiast and developer based in **Delhi, India 🇮🇳**
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanjha9260&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanjha9260&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
 </div>
 
 ---
@@ -133,16 +134,13 @@ I am a passionate AI enthusiast and developer based in **Delhi, India 🇮🇳**
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
 ---
 
 <div align="center">
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" width="100%"/>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" />
 <em><b>I love connecting with people!</b> If you want to say <b>hi</b>, I'll be happy to meet you.</em>
