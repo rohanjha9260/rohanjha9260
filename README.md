@@ -94,8 +94,6 @@ I am a passionate AI enthusiast and developer based in **Delhi, India 🇮🇳**
 |:---|:---|:---|
 | 🎥 **MidnightFlix** | Movie recommendation website | HTML, CSS, JS |
 | 📚 **Online Bookstore** | Full-stack web application | Python, Web |
-| 🤖 **AI Chatbot** | Intelligent chatbot using LLMs | Python, LLMs |
-| 📊 **ML Prediction Model** | Data analysis & predictive modeling | Python, scikit-learn |
 
 </div>
 
