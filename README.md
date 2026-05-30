@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohan+Jha!;AI+%26+ML+Engineer+%F0%9F%A4%96;Generative+AI+Trainer+%F0%9F%A7%A0;Python+Developer+%F0%9F%90%8D;Building+the+Future+with+AI+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
-
 <!-- Profile Views + Followers -->
 [![Profile Views](https://komarev.com/ghpvc/?username=rohanjha9260&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/rohanjha9260)
 [![GitHub followers](https://img.shields.io/github/followers/rohanjha9260?label=Followers&style=for-the-badge&color=blue)](https://github.com/rohanjha9260)
