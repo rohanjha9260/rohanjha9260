@@ -1,67 +1,150 @@
----
-
-## 🌊 Dynamic Header Banner
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=Rohan%20Jha&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Frontend%20Developer%20%7C%20Generative%20AI%20Trainer&descAlignY=58&descSize=20&animation=fadeIn"/>
+<!-- Typing Animation as Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohan+Jha!;AI+%26+ML+Engineer+%F0%9F%A4%96;Generative+AI+Trainer+%F0%9F%A7%A0;Python+Developer+%F0%9F%90%8D;Building+the+Future+with+AI+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Profile Views + Followers -->
+[![Profile Views](https://komarev.com/ghpvc/?username=rohanjha9260&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/rohanjha9260)
+[![GitHub followers](https://img.shields.io/github/followers/rohanjha9260?label=Followers&style=for-the-badge&color=blue)](https://github.com/rohanjha9260)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 👨‍💻 About Me
+
+<table border="0" cellpadding="10">
+<tr>
+<td valign="middle" width="55%">
+
+I am a passionate AI enthusiast and developer based in **Delhi, India 🇮🇳**, exploring the intersections of machine learning, web development, and AI automation.
+
+- 🎓 **Education:** 2nd Year B.Tech CSE (AI & ML)
+- 💼 **Experience:** Intern at Pathixo Pvt Ltd | Generative AI Trainer (GPT, Gemini & Meta AI)
+- 🌱 **Currently Learning:** AI Agents, Advanced Machine Learning, and Flutter
+- 🎵 **Hobbies:** Playing the flute & capturing nature photography for **RJ Captures** 📸
+- 💬 **Interests:** `#AI` `#MachineLearning` `#Python` `#WebDevelopment` `#Photography`
+- 📫 **Reach me at:** [jharohan1234@gmail.com](mailto:jharohan1234@gmail.com)
+- ⚡ **Fun fact:** I train AI models by day and play flute melodies by night 🌙
+
+</td>
+<td valign="middle" width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Coding GIF" width="250" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ayush2809-tech/Ayush2809-tech/output/snake.svg" alt="Snake animation" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohanjha9260)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rohanjha9260)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/DvtSfYZC7g/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rohanjha9260)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rohanjha9260)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jharohan1234@gmail.com)
 
 </div>
 
 ---
 
-## 🔥 More GitHub Stats
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rohanjha9260&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" width="100%" />
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🎬 Project | 📝 Description | 🔧 Tech |
+|:---|:---|:---|
+| 🎥 **MidnightFlix** | Movie recommendation website | HTML, CSS, JS |
+| 📚 **Online Bookstore** | Full-stack web application | Python, Web |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=rohanjha9260&cc=0D1117&tc=A855F7&ic=A855F7&bc=0D1117" alt="Rohan's GitHub stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=rohanjha9260&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohanjha9260&theme=tokyonight" alt="Repos Per Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohanjha9260&theme=tokyonight" alt="Most Commit Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohanjha9260&theme=tokyonight" alt="Stats" width="32%"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanjha9260&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohanjha9260&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohanjha9260&theme=tokyonight" alt="Profile Details" width="95%" />
 </div>
 
 ---
 
-## ⚡ Coding Activity
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanjha9260&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
+</div>
+
+---
+
+## 💡 Random Dev Quote
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanjha9260&theme=tokyo-night&hide_border=true&area=true"/>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+<div align="center">
 
-```yaml
-Currently Working On:
-  - AI Agents
-  - Generative AI Projects
-  - Frontend Development
-  - Machine Learning Models
-  - Flutter Applications
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" />
+<em><b>I love connecting with people!</b> If you want to say <b>hi</b>, I'll be happy to meet you.</em>
 
-Goals For 2026:
-  - Become AI Engineer
-  - Build SaaS AI Products
-  - Open Source Contributions
-  - Strong DSA & Development Skills
+⭐ **Star my repos if you find them useful!** ⭐
+
+</div>
