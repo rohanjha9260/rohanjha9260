@@ -1,116 +1,67 @@
 ---
 
-# 💻 Tech Stack
+## 🌊 Dynamic Header Banner
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br>Python
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br>Java
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-<br>C
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-<br>C++
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-<br>Flutter
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
-</td>
-</tr>
-
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
-<br>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-<br>Express
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br>Firebase
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-<br>TensorFlow
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
-<br>OpenCV
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-<br>HTML
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-<br>CSS
-</td>
-</tr>
-
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br>Tailwind
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br>GitHub
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br>Figma
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
-<br>GCP
-</td>
-</tr>
-</table>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=Rohan%20Jha&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Frontend%20Developer%20%7C%20Generative%20AI%20Trainer&descAlignY=58&descSize=20&animation=fadeIn"/>
 
 </div>
 
 ---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ayush2809-tech/Ayush2809-tech/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## 🔥 More GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rohanjha9260&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" width="100%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanjha9260&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=rohanjha9260&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+---
+
+## ⚡ Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanjha9260&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Currently Working On:
+  - AI Agents
+  - Generative AI Projects
+  - Frontend Development
+  - Machine Learning Models
+  - Flutter Applications
+
+Goals For 2026:
+  - Become AI Engineer
+  - Build SaaS AI Products
+  - Open Source Contributions
+  - Strong DSA & Development Skills
