@@ -169,9 +169,6 @@ Photography portfolio focused on a modern visual experience and image presentati
 
 <div align="center">
 
-### 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanjha9260&bg_color=0d1117&color=00d4ff&line=00d4ff&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
-
 <br>
 
 ### 🐍 GitHub Contribution Snake
